@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="Home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bottom_cart"
+        android:enabled="true"
+        android:icon="@drawable/ic_outline_shopping_cart_24"
+        android:title="Cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottom_user_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_outline_person_24"
+        android:title="Profile"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottom_chat_room"
+        android:enabled="true"
+        android:icon="@drawable/ic_outline_chat_24"
+        android:title="Chat Room"
+        android:titleCondensed="Chat Room"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bottom_history"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_payment_24"
+        android:title="Payments"
+        app:showAsAction="always" />
+</menu>

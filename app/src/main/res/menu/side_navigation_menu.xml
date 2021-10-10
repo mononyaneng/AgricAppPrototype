@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_creare_adds"
+            android:icon="@drawable/ic_baseline_emoji_objects_24"
+            android:title="Create Adds" />
+
+        <item
+            android:id="@+id/nav_help_center"
+            android:icon="@drawable/ic_baseline_help_outline_24"
+            android:title="Help Center" />
+    </group>
+    <item android:title="Preferences">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="Settings" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

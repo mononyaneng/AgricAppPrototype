@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_notifications"
+        android:icon="@drawable/ic_baseline_notifications_none_24"
+        app:showAsAction="always"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="Notifications"/>
+    <item
+        android:id="@+id/action_ttings"
+        app:showAsAction="never"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/acion_ttings"
+        app:showAsAction="never"
+        android:title="Privacy Policy"/>
+
+    <item
+        android:id="@+id/action_help_center"
+        app:showAsAction="never"
+        android:title="Help Center"/>
+    <item
+        android:id="@+id/action_settings"
+        app:showAsAction="never"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/action_sign_out"
+        app:showAsAction="never"
+        android:title="SignOut"/>
+</menu>

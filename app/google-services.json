@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711815813176",
+    "firebase_url": "https://mobi-linx-default-rtdb.firebaseio.com",
+    "project_id": "mobi-linx",
+    "storage_bucket": "mobi-linx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711815813176:android:197111f05e1ec4b6162ecd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711815813176-tjjkpp6di3paj1j7637vatetoa4r87q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication5",
+            "certificate_hash": "0b42ac7a77d1fcdf1686dd50a70a35f128bd4d5c"
+          }
+        },
+        {
+          "client_id": "711815813176-04ko5hhmcp5dvd450pgg1q84a4k3alaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvUk_OKO1jQx3O4xJ2vsnih6GpOIKvFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711815813176-04ko5hhmcp5dvd450pgg1q84a4k3alaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
